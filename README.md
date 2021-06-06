@@ -1,6 +1,6 @@
 FracMult
 ==================
-Whit this method we can compute values of any term with arbitrary-precision of a special sequence using a computer, where the values of the terms of the sequence are real numbers between 0 and 1.
+With this method we can compute values of any term with arbitrary-precision of a special sequence using a computer, where the values of the terms of the sequence are real numbers between 0 and 1. This sequence is <img src="https://latex.codecogs.com/svg.latex?\left(\{a_n\}\right)_{n=1}^{\infty}" title=" \left(\{\alpha\cdot n\}\right)_{n=1}^{\infty}" />, where {x} is the fractional part of real number x.
 
 For example:
 ------------------------------------
